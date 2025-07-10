@@ -1,0 +1,2 @@
+Code Quality Score: 99/100
+[/storage/emulated/0/pil.py] Line 39: unexpected indent (<unknown>, line 39)
